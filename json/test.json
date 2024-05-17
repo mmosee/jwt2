@@ -1,0 +1,18 @@
+[
+  {
+    "messageType": "messageType",
+    "messageTitle": "messageTitle",
+    "messageContent": "messageContent",
+    "messageTotal": "messageTotal",
+    "imageGroup": "imageGroup",
+    "surveyStatus": "surveyStatus"
+  },
+  {
+    "messageType": "messageType",
+    "messageTitle": "messageTitle",
+    "messageContent": "messageContent",
+    "messageTotal": "messageTotal",
+    "imageGroup": "imageGroup",
+    "surveyStatus": "surveyStatus"
+  }
+]
